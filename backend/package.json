@@ -31,7 +31,7 @@
         "hs-ssi-sdk": "^5.0.1",
         "https-localhost": "^4.6.5",
         "hypersign-auth-js-sdk": "^2.0.7",
-        "mongoose": "^5.12.3",
+        "mongoose": "^5.13.23",
         "node-fetch": "^2.6.1",
         "nodemailer": "^6.5.0",
         "simple-node-logger": "^18.12.24",
